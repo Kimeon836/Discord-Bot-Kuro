@@ -200,12 +200,6 @@ Players have to memorise the long number sequence shown, type it out, and send i
 <br>
 
 
-<p align="center"> 
-<img src=".github/gifs/BluehackWin_GIF.gif" alt="GIF" width="600px">
-</p>
-<br>
-
-
 <h3>Lock Pick</h3>
 <p align="justify"> 
 React to the embed when the green slider comes into the red section to win.
@@ -302,7 +296,7 @@ When the user mentions a song title or link, Kuro will search YouTube to find th
   </p>
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Play.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -313,7 +307,7 @@ Pauses the current song that is playing.
   </p>
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Pause.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -324,7 +318,7 @@ Resumes the current song that is playing.
   </p>
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Resume.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -335,7 +329,7 @@ When a song is currently being played, and another play command is made, that so
   </p>
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Queue.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -346,7 +340,7 @@ Shows the list of songs that are currently in queue.
   </p>
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Queuelist.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -356,7 +350,7 @@ Shows the list of songs that are currently in queue.
 Players can remove songs from the list by specifying to remove and the number the song is placed in the queue.
   </p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/RemoveFromPlaylist.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -366,7 +360,7 @@ Players can remove songs from the list by specifying to remove and the number th
 Skips or stops the current song that is playing, and moves onto the next song that is queued.
 </p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Skip.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -376,7 +370,12 @@ Skips or stops the current song that is playing, and moves onto the next song th
 Loops the current song that is playing or stops the current song that is in loop.
   </p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Loop.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+<p align="center"> 
+<img src=".github/gifs/LoopOff.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -386,7 +385,7 @@ Loops the current song that is playing or stops the current song that is in loop
 Shows the available information about the current song playing. Information contains no. of view, likes, dislikes, duration of song, link of video and its genre, and album it was from if pulled from Spotify.
   </p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Embed.gif" alt="GIF" width="600px">
 </p>
 <br>
 
