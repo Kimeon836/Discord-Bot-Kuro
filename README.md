@@ -93,6 +93,8 @@ Type the following command to start a blackjack game:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h1 id="demonstration"> :movie_camera: Demonstrations</h1>
+
 <h2 id="mini-games">Mini-games</h2>
 
 <p align="justify">
@@ -548,8 +550,6 @@ Kuro will send a random GIF of a dancing character, usually from an anime.</p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h1 id="demonstration"> :movie_camera: Demonstrations</h1>
 
 <h2 id="general-cmds">General Commands</h2>
 <p align="justify"> 
