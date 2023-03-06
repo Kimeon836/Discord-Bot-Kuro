@@ -184,7 +184,7 @@ Players have to match pairs of the same emojis as shown in the grid, then send t
 Players have to find the given sequence in the grid and send all of its coordinates together. The numbers will be constantly moving, so players must predict the future location the sequence will land on.</p>
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Yellowhack_Win.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -199,13 +199,18 @@ Players have to memorise the long number sequence shown, type it out, and send i
 </p>
 <br>
 
+<p align="center"> 
+<img src=".github/gifs/Bluehack_2.gif" alt="GIF" width="600px">
+</p>
+<br>
 
 <h3>Lock Pick</h3>
 <p align="justify"> 
 React to the embed when the green slider comes into the red section to win.
 </p>
+
 <p align="center"> 
-<img src=".github/gifs/Lockpick_GIF.gif" alt="GIF" width="600px">
+<img src=".github/gifs/LockPick_Win.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -254,7 +259,7 @@ In this game, the player will have to guess a number between the given range. Th
 In this game, kuro will guess player's number using binary search. The player will say high or low to kuro's guess and kuro will guess accordingly.
   
 <p align="center"> 
-<img src=".github/gifs/guesskuro.gif" alt="GIF" width="600px">
+<img src=".github/gifs/GuessKuro.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -364,11 +369,30 @@ Skips or stops the current song that is playing, and moves onto the next song th
 </p>
 <br>
 
+<h3>Create/View/Remove Playlist</h3>
+<p align="justify"> 
+Users can make their own playlists that will be stored in the system and played using the “Play” command. These playlists can also be viewed or removed at any time.
+  </p>
+<p align="center"> 
+<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+
+<h3>Add Songs</h3>
+<p align="justify"> 
+Users can add songs to their playlists by specifying the playlist they want to add to using a list of songs or links.
+</p>
+<p align="center"> 
+<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+</p>
+<br>
 
 <h3>Loop/Stop Loop</h3>
 <p align="justify"> 
 Loops the current song that is playing or stops the current song that is in loop.
   </p>
+
 <p align="center"> 
 <img src=".github/gifs/Loop.gif" alt="GIF" width="600px">
 </p>
@@ -389,33 +413,39 @@ Shows the available information about the current song playing. Information cont
 </p>
 <br>
 
+<h3>Seek</h3>
+<p align="justify"> 
+Seeks the song to the mentioned time. Including the minus sign seeks the song backwards.
+  </p>
+<p align="center"> 
+<img src=".github/gifs/Seek.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+<h3>Play from Queue</h3>
+<p align="justify"> 
+This command plays mentioned song from the queue and adds the current song in queue
+  </p>
+<p align="center"> 
+<img src=".github/gifs/PlayFromQueuelist.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+<h3>Volume</h3>
+<p align="justify"> 
+Adjusts the song volume in voice channel.
+  </p>
+<p align="center"> 
+<img src=".github/gifs/Volume.gif" alt="GIF" width="600px">
+</p>
+<br>
 
 <h3>Leave</h3>
 <p align="justify"> 
 Stops the current song, any songs in queue, and Kuro leaves the voice channel.
   </p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
-</p>
-<br>
-
-
-<h3>Create/View/Remove Playlist</h3>
-<p align="justify"> 
-Users can make their own playlists that will be stored in the system and played using the “Play” command. These playlists can also be viewed or removed at any time.
-  </p>
-<p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
-</p>
-<br>
-
-
-<h3>Add Songs</h3>
-<p align="justify"> 
-Users can add songs to their playlists by specifying the playlist they want to add to using a list of songs or links.
-</p>
-<p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/Leave.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -500,7 +530,7 @@ Kuro will pull a post from any subreddit page and create an embed that will lead
 Kuro will continuously pull posts from any subreddit and post them in the channel until told to stop.
   
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/RedditStopLoop.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -570,7 +600,12 @@ When the command is used, Kuro greets back with "Hey [User]! What do you need?�
 <h3>Choose</h3>
 <p align="justify"> 
 Kuro will ask what options she has to choose from, and when given options separated by commas e.g (sugar, salt, pepper), she will pick one of the options at random.</p>
-  
+
+<p align="center"> 
+<img src=".github/gifs/ChooseV2.gif" alt="GIF" width="600px">
+</p>
+<br>
+
 <p align="center"> 
 <img src=".github/gifs/Choose.gif" alt="GIF" width="600px">
 </p>
