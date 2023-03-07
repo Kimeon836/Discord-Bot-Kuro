@@ -350,12 +350,12 @@ Shows the list of songs that are currently in queue.
 <br>
 
 
-<h3>Remove From List</h3>
+<h3>Remove From QueueList</h3>
 <p align="justify"> 
-Players can remove songs from the list by specifying to remove and the number the song is placed in the queue.
+Players can remove songs from the queue by specifying to remove and the number the song is placed in the queue.
   </p>
 <p align="center"> 
-<img src=".github/gifs/RemoveFromPlaylist.gif" alt="GIF" width="600px">
+<img src=".github/gifs/RemoveFromQueuelist.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -373,18 +373,47 @@ Skips or stops the current song that is playing, and moves onto the next song th
 <p align="justify"> 
 Users can make their own playlists that will be stored in the system and played using the “Play” command. These playlists can also be viewed or removed at any time.
   </p>
+
+  <p>Create Playlist</p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/CreatePlaylist.gif" alt="GIF" width="600px">
 </p>
 <br>
 
+  <p>View Playlist</p>
+<p align="center"> 
+<img src=".github/gifs/ViewPlaylist.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+  <p>Remove Playlist</p>
+<p align="center"> 
+<img src=".github/gifs/RemovePlaylist.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+  <p>Remove song from Playlist</p>
+<p align="center"> 
+<img src=".github/gifs/RemoveSongFromPlaylist.gif" alt="GIF" width="600px">
+</p>
+<br>
 
 <h3>Add Songs</h3>
 <p align="justify"> 
 Users can add songs to their playlists by specifying the playlist they want to add to using a list of songs or links.
 </p>
 <p align="center"> 
-<img src=".github/gifs/gifname.gif" alt="GIF" width="600px">
+<img src=".github/gifs/AddSong.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+<h3>Play Playlist</h3>
+<p align="justify"> 
+Users can play their own or others saved playlists.
+</p>
+
+<p align="center"> 
+<img src=".github/gifs/PlayPlaylist.gif" alt="GIF" width="600px">
 </p>
 <br>
 
@@ -587,16 +616,6 @@ Variety of basic commands that don't categorize with specific functions, but can
 <hr>
 <br>
 
-<h3>Hello</h3>
-<p align="justify"> 
-When the command is used, Kuro greets back with "Hey [User]! What do you need?”</p>
-  
-<p align="center"> 
-<img src=".github/gifs/Hello.gif" alt="GIF" width="600px">
-</p>
-<br>
-
-
 <h3>Choose</h3>
 <p align="justify"> 
 Kuro will ask what options she has to choose from, and when given options separated by commas e.g (sugar, salt, pepper), she will pick one of the options at random.</p>
@@ -639,9 +658,19 @@ Kuro will become the user’s personal messenger and send DMs to anyone in the s
 <h3>Text to Speech</h3>
 <p align="justify"> 
 Kuro will speak any message written using the command to everyone in the channel it was posted in.</p>
-  
+
+<p align="center"> <i>The vid for this gif is avilable for audio</i></p>
 <p align="center"> 
 <img src=".github/gifs/TextToSpeech.gif" alt="GIF" width="600px">
+</p>
+<br>
+
+<h3>Hello</h3>
+<p align="justify"> 
+When the command is used, Kuro greets back with "Hey [User]! What do you need?”</p>
+  
+<p align="center"> 
+<img src=".github/gifs/Hello.gif" alt="GIF" width="600px">
 </p>
 <br>
 
